@@ -7,6 +7,10 @@
 |||
 | Komodo     |![Komodo Upness](https://gatus-open.jadnet.online/api/v1/endpoints/infrastructure_komodo/health/badge.svg "komodo")|
 | Caddy Global|![Caddy Global Upness](https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_00-health-check-00/health/badge.svg "caddy-global")|
+| *heartbeat-home*|![Heartbeat Home Upness](https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_heartbeat-home/health/badge.svg "hearrtbeat-home")|
+| Caddy External|![Caddy Externall Upness](https://gatus-open.jadnet.online/api/v1/endpoints/caddy-external_00-health-check-00/health/badge.svg "caddy-external")|
+| *heartbeat*|![Heartbeat Upness](https://gatus-open.jadnet.online/api/v1/endpoints/caddy-external_heartbeat/health/badge.svg "hearrtbeat")|
+|||
   
 [**External Status Page**](https://status.jadnet.online "JADNET updown.io")  
   
