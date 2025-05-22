@@ -1,8 +1,8 @@
 # JADNET Service Status Overview
 
-| Service Name       | Status |
-|--------------------|:------:|
-| Gateway |![Gateway](https://gatus-open.jadnet.online/api/v1/endpoints/network_icmp-01-jaduxg01/health/badge.svg "gateway")|
+| Service Name       | Status | Response Time | Past Uptime |
+|--------------------|:------:|:-------------:|:-----------:|
+| Gateway |![Gateway](https://gatus-open.jadnet.online/api/v1/endpoints/network_icmp-01-jaduxg01/health/badge.svg "gateway")|![Gateway-Time](https://gatus-open.jadnet.online/api/v1/endpoints/network_icmp-01-jaduxg01/response-times/7d/badge.svg "gateway-response")|![Gateway-Uptime](https://gatus-open.jadnet.online/api/v1/endpoints/network_icmp-01-jaduxg01/uptimes/7d/badge.svg "gateway-uptime")|
 | Aggregation Switch |![Agg Switch](https://gatus-open.jadnet.online/api/v1/endpoints/network_icmp-02-jadagg01/health/badge.svg "agg-switch")|
 | Access Switch |![Access Switch](https://gatus-open.jadnet.online/api/v1/endpoints/network_icmp-03-jadmax01/health/badge.svg "acc-switch")|
 |||
