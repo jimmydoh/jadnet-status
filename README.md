@@ -13,11 +13,12 @@
 | Plex External      |![Pex-Status]|![Pex-Response]|![Pex-Uptime]| 
 | Plex Internal      |![Pin-Status]|![Pin-Response]|![Pin-Uptime]|  
 |                    |             |               |             |
-| Caddy Global       |![Cgl-Status]|![Cgl-Response]|![Cgl-Uptime]|
+| Caddy Internal     |![Cgl-Status]|![Cgl-Response]|![Cgl-Uptime]|
 | *heartbeat-home*   |![Hhm-Status]|![Hhm-Response]|![Hhm-Uptime]|
 | *komodo*           |![Kom-Status]|![Kom-Response]|![Kom-Uptime]|
 | Caddy External     |![Cex-Status]|![Cex-Response]|![Cex-Uptime]|
 | *heartbeat*        |![Hsy-Status]|![Hsy-Response]|![Hsy-Uptime]|
+| Caddy Cloudflare   |![Ccl-Status]|![Ccl-Response]|![Ccl-Uptime]|
 |                    |             |               |             |
   
 [**External Status Page**](https://status.jadnet.online "JADNET updown.io")  
@@ -56,17 +57,17 @@
 [Pin-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/plex_https-plex-internal/response-times/7d/badge.svg
 [Pin-Uptime]: https://gatus-open.jadnet.online/api/v1/endpoints/plex_https-plex-internal/uptimes/7d/badge.svg
 
-[Cgl-Status]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_00-health-check-00/health/badge.svg
-[Cgl-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_00-health-check-00/response-times/7d/badge.svg
-[Cgl-Uptime]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_00-health-check-00/uptimes/7d/badge.svg
+[Cgl-Status]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-internal_00-health-check-00/health/badge.svg
+[Cgl-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-internal_00-health-check-00/response-times/7d/badge.svg
+[Cgl-Uptime]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-internal_00-health-check-00/uptimes/7d/badge.svg
 
-[Hhm-Status]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_heartbeat-home/health/badge.svg
-[Hhm-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_heartbeat-home/response-times/7d/badge.svg
-[Hhm-Uptime]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_heartbeat-home/uptimes/7d/badge.svg
+[Hhm-Status]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-internal_heartbeat-home/health/badge.svg
+[Hhm-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-internal_heartbeat-home/response-times/7d/badge.svg
+[Hhm-Uptime]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-internal_heartbeat-home/uptimes/7d/badge.svg
 
-[Kom-Status]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_komodo/health/badge.svg
-[Kom-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_komodo/response-times/7d/badge.svg
-[Kom-Uptime]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-global_komodo/uptimes/7d/badge.svg
+[Kom-Status]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-internal_komodo/health/badge.svg
+[Kom-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-internal_komodo/response-times/7d/badge.svg
+[Kom-Uptime]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-internal_komodo/uptimes/7d/badge.svg
 
 [Cex-Status]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-external_00-health-check-00/health/badge.svg
 [Cex-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-external_00-health-check-00/response-times/7d/badge.svg
@@ -75,3 +76,7 @@
 [Hsy-Status]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-external_heartbeat/health/badge.svg
 [Hsy-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-external_heartbeat/response-times/7d/badge.svg
 [Hsy-Uptime]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-external_heartbeat/uptimes/7d/badge.svg
+
+[Ccl-Status]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-cloudflare_00-health-check-00/health/badge.svg
+[Ccl-Response]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-cloudflare_00-health-check-00/response-times/7d/badge.svg
+[Ccl-Uptime]: https://gatus-open.jadnet.online/api/v1/endpoints/caddy-cloudflare_00-health-check-00/uptimes/7d/badge.svg
